@@ -1,7 +1,7 @@
 - 👋 Óla, Meu nome é Marcelo Peixoto
 - 👀 Tenho conhecimento em Java, HTML , CSS, MySQL e C++
 - 🌱 Estou aprendendo Python, e aperfeiçoando meu Java
-- 📫 Procuro Aprender mais linguagens de programaçao para conseguir
+- 📫 Procuro Aprender mais linguagens de programaçao
 - ☎️ Contato: marcelo_filho7@hotmail.com
 
 <!---
