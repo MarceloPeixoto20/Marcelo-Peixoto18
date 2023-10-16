@@ -1,4 +1,5 @@
 - 👋 Óla, Meu nome é Marcelo Peixoto
+- 🎓 Atualmente em Graduaçao de Ciências da Computação
 - 👀 Tenho conhecimento em Java, HTML , CSS, MySQL e C++
 - 🌱 Estou aprendendo Python, e aperfeiçoando meu Java
 - 📫 Procuro Aprender mais linguagens de programaçao
