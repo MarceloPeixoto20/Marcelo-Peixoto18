@@ -3,7 +3,7 @@
 - 👀 Tenho conhecimento em Java, HTML , CSS, MySQL e C++
 - 🌱 Estou aprendendo Python, e aperfeiçoando meu Java
 - 📫 Procuro Aprender mais linguagens de programaçao
-- ☎️ Contato: marcelo_filho7@hotmail.com
+- ☎️ Contato: marcelopeixotodev@gmail.com
 
 <!---
 Marcelo-Peixoto18/Marcelo-Peixoto18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
